@@ -1,0 +1,31 @@
+_repo: Jimmie-Moore-of-Bucktown_35359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trotter, Melvin E. (Melvin Earnest)
+    aliases:
+    - Trotter Melvin Earnest
+    - Trotter, Mel
+    birthdate: 1870
+    deathdate: 1940
+    gutenberg_agent_id: '37628'
+    url: http://www.gutenberg.org/2009/agents/37628
+description: ''
+gutenberg_issued: '2011-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Missionaries -- Fiction'
+title: Jimmie Moore of Bucktown
+url: http://www.gutenberg.org/ebooks/35359
